@@ -2,20 +2,17 @@
 
 徳島大学ゲームクリエイトプロジェクトの作品を閲覧・起動できる、Windows向けランチャーです。
 
-**現在、正式公開に向けて準備中です。**
-
 ## 使い方
 
-1. ReleasesからWindows向けZIPファイルをダウンロードして展開します。
-2. `TUGC Launcher.exe` を起動します。
-3. Discord認証を行うと、作品の一覧・ダウンロード機能を利用できます。
+1. [Releases](https://github.com/InnovaGameCreate/tugc-launcher-release/releases)で正式版の `TUGC-Launcher-win-x64.zip` をダウンロードし、すべて展開します。
+2. 展開したフォルダの `TUGC Launcher.exe` を起動します。
+3. アプリの案内に従ってDiscord認証を行います。作品の取得には、TUGCのDiscordサーバーへの所属確認が必要です。
+4. 作品を選んでダウンロードし、取得後に起動します。
 
-ダウンロード済みの作品は、オフラインでも起動できます。
+取得済みのローカル作品は、オフラインでも起動できます。Web作品の利用にはインターネット接続が必要です。
 
-## その他
+ランチャー本体や作品の更新に対応しています。
 
-- 本体や作品の更新に対応しています。
-- 作品の起動回数を記録・送信し、作品単位の集計として公開します。
-- 作品のダウンロードには、所定のDiscordサーバーへの所属が必要です。
+詳しい使い方は、[TUGCメンバー向けNotion](https://app.notion.com/p/tugc/TUGC-Launcher-36f81840185380ce9a5ed60385d19335?source=copy_link)をご覧ください。
 
-※ 正式公開前のPre-releaseは動作検証用です。
+※ Pre-releaseと表示された版は動作検証用です。
